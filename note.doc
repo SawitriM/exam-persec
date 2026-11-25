@@ -1,0 +1,2 @@
+คำสั่งรัน cross-browser :: npm run test:cross-browser
+คำสั่งรันระบุเจาะจง browser :: npx cypress run --browser chrome --headed --no-exit

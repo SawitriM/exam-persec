@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS & editor files
+.DS_Store
+.qodo/
